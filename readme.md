@@ -1,3 +1,5 @@
+# Description of files
+
 There are 4 folders in the root directory. 3 folders are for 3 assignments and project folder is for the final project. 
 
 For the assignments we have uploaded the database file directly to the aws instance, and for the project we have written a function to create the database. 
